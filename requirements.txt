@@ -1,4 +1,5 @@
 streamlit
-tensorflow==2.12.0
+tensorflow-cpu
 pillow
 numpy
+python-3.9
