@@ -49,3 +49,4 @@ for i, idx in enumerate(indices):
     plt.title(f"Predicted: {np.argmax(predictions[idx])}")
     plt.axis('off')
 plt.show()
+model.save("mnist_cnn_model.h5")
