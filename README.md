@@ -1,8 +1,5 @@
 # AI-Tools-Assignment
 
-Sure! Here's a **well-structured README** for your **MNIST CNN model** and **Amazon Reviews NLP model**, written clearly so anyone can understand and run your projects.
-
-You can save it as `README.md`.
 
 ---
 
